@@ -1,0 +1,1 @@
+A Markov chain is a mathematical concept that refers to a set of discrete random variables with specific properties. It is defined by a transition probability matrix that represents the probability of transitioning from one state to another.
